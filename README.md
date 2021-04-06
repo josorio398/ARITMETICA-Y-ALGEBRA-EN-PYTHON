@@ -1,5 +1,6 @@
 # ARITMÉTICA Y ÁLGEBRA CON PYTHON ( módulo SymPy)
-<p style="text-align: justify;">Este repositorio tiene como finalidad abordar los concept&oacute;s b&aacute;sicos del lenguaje de programación Python y tratar algunas actividades de aritmética y algebra que se pueden realizar desde este lenguaje de programaci&oacute;n  usando la librer&iacute;a SymPy, se pretende que serva como herramienta para la validaci&oacute;n del conocimiento y la resoluci&oacute;n de problemas.</p>
+<p style="text-align: justify;">Este repositorio tiene como finalidad abordar los concept&oacute;s b&aacute;sicos del lenguaje de programación Python y tratar algunas actividades de aritmética y algebra que se pueden realizar desde este lenguaje de programaci&oacute;n  usando la librer&iacute;a SymPy, se pretende que si
+rva como herramienta para la validaci&oacute;n del conocimiento y la resoluci&oacute;n de problemas.</p>
 
 ## TABLA DE CONTENIDO
 
