@@ -3,9 +3,11 @@
 
 ## TABLA DE CONTENIDO
 
-[1. Aritmética con Python](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
+[1. Conceptos básicos](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
 
-[2. Álgebra con Python](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
+[2. Aritmética con Python](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
+
+[3. Álgebra con Python](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
 
 
 
