@@ -8,7 +8,7 @@ rva como herramienta para la validaci&oacute;n del conocimiento y la resoluci&oa
 
 [2. Aritmética con Python](https://colab.research.google.com/github/josorio398/ARITMETICA-Y-ALGEBRA-EN-PYTHON/blob/master/Aritm%C3%A9tica_con_Python.ipynb)
 
-[3. Álgebra con Python](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
+[3. Álgebra con Python](https://colab.research.google.com/github/josorio398/ARITMETICA-Y-ALGEBRA-EN-PYTHON/blob/master/%C3%81lgebra_con_Python.ipynb)
 
 
 
