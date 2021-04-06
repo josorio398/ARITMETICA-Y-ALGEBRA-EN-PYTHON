@@ -4,7 +4,7 @@ rva como herramienta para la validaci&oacute;n del conocimiento y la resoluci&oa
 
 ## TABLA DE CONTENIDO
 
-[1. Conceptos básicos](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
+[1. Conceptos básicos](https://colab.research.google.com/github/josorio398/ARITMETICA-Y-ALGEBRA-EN-PYTHON/blob/master/Conceptos_b%C3%A1sicos_de_Python_.ipynb)
 
 [2. Aritmética con Python](https://colab.research.google.com/github/josorio398/ALGEBRA-LINEAL-CON-PYTHON/blob/master/%C3%81lgebra_lineal_con_Python_Operaciones_con_matrices.ipynb)
 
