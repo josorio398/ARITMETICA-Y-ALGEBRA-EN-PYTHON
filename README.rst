@@ -40,8 +40,16 @@ Para utilizar el módulo de graficación **plotvectors** debe importarlo de la s
 
     from PlotLinearAlgebra.plotvectors import *
 
-Why choose this library?
-------------------------
+Funciones
+---------
+
+El submódulo **plotvectors** contiene las funciones **plotvectors2D** que permite realizar la visualización 
+de vectores en el plano cartesiano y **plotvectors3D** que permite la visualización de vectores en el espacio
+tridimensional, para definir puntos en estos módulos se usarán los objetos tipo tupla, por ejemplo el punto 
+``P =(x,y)`` o ``P =(x,y,z)`` y para definir vectores se usarán listas, por ejemplo el vector unidimensional
+``V =[x]``, bidimensional ``V =[x,y]`` o tridimensional ``V =[x,y,z]``,  también podemos definir vectores 
+como una matriz columna, haciendo uso de la librería sympy, de la forma ``V =Matrix([x])``, ``V =Matrix([x,y])`` 
+o ``V =Matrix([x,y,z])`` dependiendo de la dimensión del vector.
 
 - Can parse many broken SRT files which other SRT libraries cannot, and fix them
 - Extremely lightweight, `~150 lines of code`_ excluding docstrings
