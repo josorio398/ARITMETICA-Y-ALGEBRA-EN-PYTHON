@@ -72,16 +72,10 @@ A continuación  se presenta la sintaxis adecuada para el manejo de esta funció
 - ``plotvectors2D([P,a,"b"])`` permite graficar un vector con punto inicial en ``P = (x0,y0)``, magnitud ``a`` y ángulo en grados respecto al eje x positivo ``b``.
 - ``plotvectors2D([v1],[v2],...,[v3])`` permite graficar múltiples vectores en el plano definidos de diferente forma.
 
+Como ejemplo, podemos presentar el siguiente código donde A,B,C,D se definen como vectores y P y Q se definen como puntos:
 
 
-.. _quickstart: http://srt.readthedocs.org/en/latest/quickstart.html
-.. _`SRT files`: https://en.wikipedia.org/wiki/SubRip#SubRip_text_file_format
-.. _Hypothesis: https://github.com/DRMacIver/hypothesis
-.. _`100% test coverage`: https://coveralls.io/github/cdown/srt?branch=develop
-.. _`Well documented API`: http://srt.readthedocs.org/en/latest/index.html
-.. _`~150 lines of code`: https://paste.pound-python.org/raw/3WgFQIvkVVvBZvQI3nm4/
-.. _PyPy: http://pypy.org/
-.. _`~30% faster than pysrt on typical workloads`: https://paste.pound-python.org/raw/8nQKbDW0ROWvS7bOeAb3/
+
 
 Usage
 -----
