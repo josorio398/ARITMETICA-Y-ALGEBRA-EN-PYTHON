@@ -34,9 +34,11 @@ Para utilizar el módulo de graficación **plotvectors** debe importarlo de la s
 
 .. code::
 
-    pip install -U srt
+    pip install PlotLinearAlgebra
 
+.. code::
 
+    from PlotLinearAlgebra.plotvectors import *
 
 Why choose this library?
 ------------------------
