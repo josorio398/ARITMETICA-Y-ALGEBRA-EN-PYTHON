@@ -11,6 +11,8 @@ es compatible con vectores construidos como matriz columna en la librería **Sym
 herramienta de visualización, para validar el conocimiento por parte de los estudiantes y para la 
 resolución de problemas relacionados con conceptos vectoriales.
 
+|travis| |lgtm| |coveralls| |libraries|
+
 .. |travis| image:: https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white
   :target: https://travis-ci.org/cdown/srt
   :alt: Tests
@@ -26,6 +28,7 @@ resolución de problemas relacionados con conceptos vectoriales.
 .. |libraries| image:: https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white
   :target: https://libraries.io/github/cdown/srt
   :alt: Dependencies
+
 
 Instalación
 -----------
