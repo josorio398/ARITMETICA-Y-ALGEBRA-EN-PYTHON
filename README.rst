@@ -96,7 +96,36 @@ Permite visualizar multiples vectores en el espacio tridimensional, que pueden t
 anclados en el origen del espacio, o vectores equipolentes a otro que inicie en un punto dado (traslación de vectores), y vectores
 desde una magnitud y un vector director unitario dado, acepta como argumentos vectores columna tridimensionales definidos en la librería SymPy.
 
+A continuación  se presenta la sintaxis adecuada para el manejo de esta función:
 
+- ``plotvectors3D([x,y])`` permite graficar un vector con punto inicial ``(0,0,0)`` y punto final ``(x,y,z)``.
+- ``plotvectors3D(V)`` permite graficar un vector definido como ``V = [x,y,z]`` o en la librería **sympy** como ``V = Matrix([x,y,z])``.
+- ``plotvectors3D([P,Q])`` permite graficar un vector con punto inicial ``P = (x1,y1,z1)`` y punto final ``Q = (x2,y2,z2)``.
+- ``plotvectors3D([P,V])`` permite graficar un vector equipolente al vector  definido como ``V = [x,y,z]`` o  ``V = Matrix([x,y,z])`` con punto inicial en ``P = (x0,y0,z0)``.
+- ``plotvectors3D([a,U])`` permite graficar un vector con magnitud ``a`` y vector director unitario definido como ``U = [x,y,z]`` o ``U = Matrix([x,y,z])``.
+- ``plotvectors3D([P,a,U])`` permite graficar un vector con punto inicial en ``P = (x0,y0,z0)``, magnitud ``a`` y vector director unitario definido como ``U = [x,y,z]`` o ``U = Matrix([x,y,z])``.
+- ``plotvectors3D ([v1],[v2],...,[v3])`` permite graficar múltiples vectores en el espacio definidos de diferente forma.
+
+Como ejemplo, podemos presentar el siguiente código donde A,B se define como vectores, i,j,k como vectores unitario y P y Q como puntos:
+
+.. code:: python
+    from sympy import Matrix
+
+    A = Matrix([6,2,3])
+    B = [3,4,5]
+
+    P = (-4,2,3)
+    Q = (5,4,6)
+
+    i = [1,0,0]
+    j = [0,1,0]
+    K = [0,0,1]
+
+    norm = A.norm()
+  
+    U = (1/norm)*A
+  
+    plotvectors3D([1,2,3],B,A, [P,Q],[P,B],[(6,3,5),A],[(1,-2,3),(5,-4,-6)],[3,i],[(1,2,3),3,j],[5,K],[(4,5,6),8,U]) 
 
 
 Usage
