@@ -1,18 +1,18 @@
 |travis| |lgtm| |coveralls| |libraries|
 
-.. |travis| image:: https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white
+.. |travis| image:: https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white
   :target: https://travis-ci.org/cdown/srt
   :alt: Tests
 
-.. |lgtm| image:: https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white
+.. |lgtm| image::  https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white
   :target: https://lgtm.com/projects/g/cdown/srt/overview/
   :alt: LGTM
 
-.. |coveralls| image:: https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white
+.. |coveralls| image:: https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white
   :target: https://coveralls.io/github/cdown/srt?branch=develop
   :alt: Coverage
 
-.. |libraries| image:: https://img.shields.io/librariesio/github/cdown/srt.svg?label=dependencies
+.. |libraries| image:: https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white
   :target: https://libraries.io/github/cdown/srt
   :alt: Dependencies
 
