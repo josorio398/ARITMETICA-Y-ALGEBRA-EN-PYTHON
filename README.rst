@@ -18,6 +18,7 @@
 
 Descripción general
 -------------------
+
 Este módulo contiene algunas herramientas para la representación gráfica de vectores en el plano y en 
 el espacio, diseñado para un curso de álgebra lineal con aplicaciones, contiene funciones para graficar
 vectores con punto inicial y punto final dado, o anclados en el origen, para su realización se utilizó 
@@ -26,14 +27,16 @@ es compatible con vectores construidos como matriz columna en la librería **Sym
 herramienta de visualización, para validar el conocimiento por parte de los estudiantes y para la 
 resolución de problemas relacionados con conceptos vectoriales.
 
+Instalación
+-----------
+
+Para utilizar el módulo de graficación **plotvectors** debe importarlo de la siguiente manera:
+
+.. code::
+
+    pip install -U srt
 
 
-Want to see some examples of its use? Take a look at the `tools shipped with
-the library`_. This library is also used internally by projects like
-`subsync`_, `bw_plex`_, and many more.
-
-.. _subsync: https://github.com/smacke/subsync
-.. _bw_plex: https://github.com/Hellowlol/bw_plex
 
 Why choose this library?
 ------------------------
