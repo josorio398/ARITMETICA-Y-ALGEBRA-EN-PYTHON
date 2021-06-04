@@ -109,6 +109,7 @@ A continuación  se presenta la sintaxis adecuada para el manejo de esta funció
 Como ejemplo, podemos presentar el siguiente código donde A,B se define como vectores, i,j,k como vectores unitario y P y Q como puntos:
 
 .. code:: python
+
     from sympy import Matrix
 
     A = Matrix([6,2,3])
