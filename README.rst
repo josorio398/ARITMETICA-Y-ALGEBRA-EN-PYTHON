@@ -54,7 +54,7 @@ como una matriz columna, haciendo uso de la librería sympy, de la forma ``V =Ma
 o ``V =Matrix([x,y,z])`` dependiendo de la dimensión del vector.
 
 plotvectors2D
-
+------------
 
 - Can parse many broken SRT files which other SRT libraries cannot, and fix them
 - Extremely lightweight, `~150 lines of code`_ excluding docstrings
