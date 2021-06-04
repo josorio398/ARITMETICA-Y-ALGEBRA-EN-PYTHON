@@ -1,7 +1,7 @@
 
 
 Descripción general
--------------------
+===================
 
 Este módulo contiene algunas herramientas para la representación gráfica de vectores en el plano y en 
 el espacio, diseñado para un curso de álgebra lineal con aplicaciones, contiene funciones para graficar
@@ -31,7 +31,7 @@ resolución de problemas relacionados con conceptos vectoriales.
 
 
 Instalación
------------
+===========
 
 Para utilizar el módulo de graficación **plotvectors** debe importarlo de la siguiente manera:
 
@@ -44,7 +44,7 @@ Para utilizar el módulo de graficación **plotvectors** debe importarlo de la s
     from PlotLinearAlgebra.plotvectors import *
 
 Funciones
----------
+=========
 
 El submódulo **plotvectors** contiene las funciones **plotvectors2D** que permite realizar la visualización 
 de vectores en el plano cartesiano y **plotvectors3D** que permite la visualización de vectores en el espacio
@@ -53,6 +53,9 @@ tridimensional, para definir puntos en estos módulos se usarán los objetos tip
 ``V =[x]``, bidimensional ``V =[x,y]`` o tridimensional ``V =[x,y,z]``,  también podemos definir vectores 
 como una matriz columna, haciendo uso de la librería sympy, de la forma ``V =Matrix([x])``, ``V =Matrix([x,y])`` 
 o ``V =Matrix([x,y,z])`` dependiendo de la dimensión del vector.
+
+plotvectors2D
+*************
 
 - Can parse many broken SRT files which other SRT libraries cannot, and fix them
 - Extremely lightweight, `~150 lines of code`_ excluding docstrings
