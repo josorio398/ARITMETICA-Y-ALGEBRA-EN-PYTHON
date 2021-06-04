@@ -63,24 +63,16 @@ bidimensionales definidos como matriz columna en la librería SymPy.
 
 A continuación  se presenta la sintaxis adecuada para el manejo de esta función:
 
--  ``plotvectors2D([x,y])`` permite graficar un vector con punto inicial ``(0,0)`` y punto final ``(x,y)``.
-- Extremely lightweight, `~150 lines of code`_ excluding docstrings
-- Simple, intuitive API
-- High quality test suite using Hypothesis_
-- `100% test coverage`_ (including branches)
-- `Well documented API`_, at both a high and low level
-- `~30% faster than pysrt on typical workloads`_
-- Full support for `PyPy`_
-- No dependencies outside of the standard library
-- Tolerant of many common errors found in real-world SRT files
-- Support for Asian-style SRT formats (ie. "fullwidth" SRT format)
-- Completely Unicode compliant
-- Released under a highly permissive license (MIT)
-- Real world tested — used in production to process thousands of SRT files
-  every day
-- Portable — runs on Linux, OSX, and Windows
-- Tools included — contains lightweight tools to perform generic tasks with the
-  library
+- ``plotvectors2D([x,y])`` permite graficar un vector con punto inicial ``(0,0)`` y punto final ``(x,y)``.
+- ``plotvectors2D([x])`` permite graficar un vector unidimensional en la recta numérica con punto inicial  en el origen y punto final ``(x)``.
+- ``plotvectors2D(V)`` permite graficar un vector definido como ``V = [x,y]`` o  ``V = [x]``, usando la librería **sympy** se pueden definir como ``V = Matrix([x,y])`` o ``V = Matrix([x])``.
+- ``plotvectors2D([P,Q])`` permite graficar un vector con punto inicial ``P = (x1,y1)`` y punto final ``Q = (x2,y2)``.
+- ``plotvectors2D([P,V])`` permite graficar un vector equipolente a un vector definido como: ``V = [x,y]``, ``V = [x]``, ``V = Matrix([x,y])`` o ``V = Matrix([x])`` con punto inicial en ``P = (x0,y0)``.
+- ``plotvectors2D([a,"b"])`` permite graficar un vector con magnitud ``a`` y ángulo en grados respecto al eje x positivo ``b``.
+- ``plotvectors2D([P,a,"b"])`` permite graficar un vector con punto inicial en ``P = (x0,y0)``, magnitud ``a`` y ángulo en grados respecto al eje x positivo ``b``.
+- ``plotvectors2D([v1],[v2],...,[v3])`` permite graficar múltiples vectores en el plano definidos de diferente forma.
+
+
 
 .. _quickstart: http://srt.readthedocs.org/en/latest/quickstart.html
 .. _`SRT files`: https://en.wikipedia.org/wiki/SubRip#SubRip_text_file_format
