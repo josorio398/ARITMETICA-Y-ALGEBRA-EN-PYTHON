@@ -16,9 +16,17 @@
   :target: https://libraries.io/github/cdown/srt
   :alt: Dependencies
 
-srt is a tiny but featureful Python library for parsing, modifying, and
-composing `SRT files`_. Take a look at the quickstart_ for a basic overview of
-the library. `Detailed API documentation`_ is also available.
+Descripción general
+-------------------
+Este módulo contiene algunas herramientas para la representación gráfica de vectores en el plano y en 
+el espacio, diseñado para un curso de álgebra lineal con aplicaciones, contiene funciones para graficar
+vectores con punto inicial y punto final dado, o anclados en el origen, para su realización se utilizó 
+la librería de graficación interactiva **Plotly** y la librería de arreglos multidimensionales **NumPy**,
+es compatible con vectores construidos como matriz columna en la librería **SymPy**. Puede servir como 
+herramienta de visualización, para validar el conocimiento por parte de los estudiantes y para la 
+resolución de problemas relacionados con conceptos vectoriales.
+
+
 
 Want to see some examples of its use? Take a look at the `tools shipped with
 the library`_. This library is also used internally by projects like
