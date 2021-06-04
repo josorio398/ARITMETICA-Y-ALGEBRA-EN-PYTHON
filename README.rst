@@ -35,11 +35,11 @@ Instalación
 
 Para utilizar el módulo de graficación **plotvectors** debe importarlo de la siguiente manera:
 
-.. code::
+.. code:: python
 
     pip install PlotLinearAlgebra
 
-.. code::
+.. code:: python
 
     from PlotLinearAlgebra.plotvectors import *
 
