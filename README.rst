@@ -56,7 +56,14 @@ o ``V =Matrix([x,y,z])`` dependiendo de la dimensión del vector.
 plotvectors2D
 ------------
 
-- Can parse many broken SRT files which other SRT libraries cannot, and fix them
+Permite visualizar múltiples vectores en el plano cartesiano, que pueden tener un punto inicial y un punto final 
+dado, estar anclados en el origen del plano, o vectores equipolentes a otro que inicie en un punto dado (traslación de vectores),
+y vectores en forma polar anclados en el origen o con un punto inicial dado, acepta como argumentos vectores unidimensionales o
+bidimensionales definidos como matriz columna en la librería SymPy.
+
+A continuación  se presenta la sintaxis adecuada para el manejo de esta función:
+
+-  ``plotvectors2D([x,y])`` permite graficar un vector con punto inicial ``(0,0)`` y punto final ``(x,y)``.
 - Extremely lightweight, `~150 lines of code`_ excluding docstrings
 - Simple, intuitive API
 - High quality test suite using Hypothesis_
