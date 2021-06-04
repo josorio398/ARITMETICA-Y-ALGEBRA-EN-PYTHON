@@ -1,6 +1,6 @@
 |travis| |lgtm| |coveralls| |libraries|
 
-.. |travis| image:: https://img.shields.io/badge/scipy%20-%23117AC9.svg?&style=flat&logo=scipy&logoColor=white" height="20" />&nbsp;<img alt="plotly
+.. |travis| image:: https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />&nbsp;<img alt="scikit
   :target: https://travis-ci.org/cdown/srt
   :alt: Tests
 
