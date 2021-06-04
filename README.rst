@@ -1,6 +1,6 @@
 |travis| |lgtm| |coveralls| |libraries|
 
-.. |travis| image:: https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />&nbsp;<img alt="scikit
+.. |travis| image:: https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white
   :target: https://travis-ci.org/cdown/srt
   :alt: Tests
 
@@ -8,7 +8,7 @@
   :target: https://lgtm.com/projects/g/cdown/srt/overview/
   :alt: LGTM
 
-.. |coveralls| image:: https://img.shields.io/coveralls/cdown/srt/develop.svg?label=test%20coverage
+.. |coveralls| image:: https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white
   :target: https://coveralls.io/github/cdown/srt?branch=develop
   :alt: Coverage
 
