@@ -4,7 +4,7 @@
   :target: https://travis-ci.org/cdown/srt
   :alt: Tests
 
-.. |lgtm| image:: https://img.shields.io/lgtm/grade/python/github/cdown/srt.svg?label=code%20quality
+.. |lgtm| image:: https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white
   :target: https://lgtm.com/projects/g/cdown/srt/overview/
   :alt: LGTM
 
