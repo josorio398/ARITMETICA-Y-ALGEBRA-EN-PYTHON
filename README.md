@@ -6,9 +6,7 @@ rva como herramienta para la validaci&oacute;n del conocimiento y la resoluci&oa
 
 [1. Conceptos básicos](https://colab.research.google.com/drive/150GswgIWOvxxtdC1OUASE-SruenmFRUm)
 
-[2. Aritmética con Python](https://colab.research.google.com/github/josorio398/ARITMETICA-Y-ALGEBRA-EN-PYTHON/blob/master/Aritm%C3%A9tica_con_Python.ipynb)
-
-[3. Álgebra con Python](https://colab.research.google.com/github/josorio398/ARITMETICA-Y-ALGEBRA-EN-PYTHON/blob/master/%C3%81lgebra_con_Python.ipynb)
+[2. Aritmética y Álgebra con Python](https://colab.research.google.com/github/josorio398/ARITMETICA-Y-ALGEBRA-EN-PYTHON/blob/master/Aritm%C3%A9tica_con_Python.ipynb)
 
 
 
